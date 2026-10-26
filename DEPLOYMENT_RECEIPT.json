@@ -1,0 +1,14 @@
+{
+  "project": "otto-hahn-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "FprSvvKiYqEfobZ79L9TNYkoqmwJ25gHWWHD81yqj8F6",
+  "vault_account": "2HJyV9si2jeUMXsx62jgipBx63xDK8AzWmYasitUHYGW",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2R29FvNjVB9scRj4dMMitVjHn6qtsp37zaYw2bNf9Hmyp9vjHmx6d2okYLTGbYBQs4tcvUrMnm7XyyVS79WBM584",
+  "account_tx": "3MaYbzMHU5W9aMACTaiCwYrmE4PcT4mJzw6X2BnmhGRkkbKFRWgmGuRbkiGTbDC7TBr3ixj1jiwHNyaoe9Z1U2Ex",
+  "mint_tx": "41jkH3XqWk6r5DkkeB63XyCjhd2tdpGAB14mTpU7YYBej87LJhstgZ2c2EZmgWtYdLKFUQ65UVTCt3ED134JzXiu",
+  "solana_explorer_mint": "https://explorer.solana.com/address/FprSvvKiYqEfobZ79L9TNYkoqmwJ25gHWWHD81yqj8F6?cluster=devnet",
+  "timestamp": "2026-10-26 16:52:47 UTC"
+}
